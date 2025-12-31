@@ -83,8 +83,8 @@ I'm a **Data Analyst** passionate about transforming raw data into actionable in
 
 <div align="center">
   
-![GitHub followers](https://img.shields.io/github/followers/Sarohaa199?style=social&label=Follow)
-![GitHub User's stars](https://img.shields.io/github/stars/Sarohaa199?style=social&label=Stars)
+![GitHub followers](https://img.shields.io/github/followers/amaninsights?style=social&label=Follow)
+![GitHub User's stars](https://img.shields.io/github/stars/amaninsights?style=social&label=Stars)
 
 </div>
 
