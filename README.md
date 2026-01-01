@@ -76,7 +76,7 @@ I'm a **Data Analyst** passionate about transforming raw data into actionable in
 | **Airbnb Market Insights** | Interactive dashboard analyzing Seattle Airbnb listings | Tableau | [📂 Repo](https://github.com/Sarohaa199/airbnb-market-insights-seattle) |
 | **HR Analytics** | End-to-end HR analytics with advanced SQL queries | SQL, MySQL | [📂 Repo](https://github.com/Sarohaa199/hr-analytics-mysql) |
 | **MySQL Collection** | Diverse database design & analysis projects | SQL, MySQL | [📂 Repo](https://github.com/Sarohaa199/MySQL-Projects) |
-
+| **Web Scraping** |End-to-end web scraping pipeline to extract, clean, and structure data for analytics use | Python, Pandas, BeautifySoup, Requests | [📂 Repo](https://github.com/amaninsights/web-scraping) |
 ---
 
 ## 📈 GitHub Stats
