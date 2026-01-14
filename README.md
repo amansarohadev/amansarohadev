@@ -20,8 +20,8 @@
 - Build 8+ portfolio projects demonstrating real-world problem-solving
 
 ### 📫 Let's Connect
-- LinkedIn: [[Your LinkedIn URL](https://www.linkedin.com/in/aman2805/)]
-- Email: [Your Email](sarohaa199@gmail.com)
+- LinkedIn: [linkedin.com/in/aman2805/](https://www.linkedin.com/in/aman2805/)
+- Email: [amansarohadev@gmailc.om](amansarohadev@gmail.com)
 ---
 
 *"Data tells a story. I help businesses hear it."*
