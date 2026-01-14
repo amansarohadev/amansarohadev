@@ -21,7 +21,7 @@
 
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/aman2805/](https://www.linkedin.com/in/aman2805/)
-- Email: [amansarohadev@gmailc.om](amansarohadev@gmail.com)
+- Email: [amansarohadev@gmail.com](amansarohadev@gmail.com)
 ---
 
 *"Data tells a story. I help businesses hear it."*
