@@ -136,7 +136,7 @@ Interactive Tableau dashboard analyzing Seattle Airbnb market - pricing trends, 
 <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=amaninsights&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amaninsights&theme=tokyonight&hide_border=true" height="165"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amaninsights&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
