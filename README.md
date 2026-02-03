@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="assets/profile_pic.png" width="150" height="150" style="border-radius: 50%;" alt="Profile Picture" />
+  <br />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Aman+%F0%9F%91%8B;Azure+Data+Engineer;Building+Scalable+Pipelines" alt="Typing SVG" />
   </a>
