@@ -1,63 +1,94 @@
 <div align="center">
+  <img src="assets/banner.png" alt="Azure Data Engineer Banner" width="100%" />
+</div>
+
+<div align="center">
   
-# Hey, I'm Aman 👋
-
-### Data Analyst | SQL • Python • Machine Learning | Building Data-Driven Solutions
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amaninsights.vercel.app-blue?style=for-the-badge)](https://amaninsights.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aman2805-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman2805)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansarohadev@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=amaninsights&style=flat-square&color=blue" alt="Profile Views"/>
+  # Hey, I'm Aman 👋
+  
+  ### ☁️ Azure Data Engineer | 🚀 Building Scalable Data Pipelines
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-amaninsights.vercel.app-blue?style=for-the-badge)](https://amaninsights.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aman2805-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman2805)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansarohadev@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Aman Saroha"
-        self.location = "India 🇮🇳"
-        self.focus = ["Analytics Engineering", "Business Intelligence", "ML Applications"]
-        self.current_goal = "Building production-grade analytics systems"
-    
-    def daily_tools(self):
-        return ["SQL", "Python", "Power BI", "Tableau"]
-```
-
-I transform raw data into actionable business insights. Passionate about building end-to-end analytics pipelines that solve real-world problems.
+<div align="center">
+  <br />
+  <img src="https://github.com/amansarohadev/amansarohadev/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <br />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <br />
+      <p>I design and build production-grade data infrastructure on Azure. My focus is on creating reliable ETL/ELT pipelines, optimizing data warehouses, and enabling data-driven decision making through robust architecture.</p>
+      
+```python
+class AzureDataEngineer:
+    def __init__(self):
+        self.name = "Aman Saroha"
+        self.role = "Data Engineer"
+        self.location = "India 🇮🇳"
+        self.cloud = "Microsoft Azure"
+        
+    def core_competencies(self):
+        return [
+            "Data Pipeline Architecture",
+            "Big Data Processing",
+            "Data Warehousing", 
+            "Cloud Security & Governance"
+        ]
+```
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Tech Stack</h3>
+      <div align="center">
+        <!-- Azure Core -->
+        <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=datafactory&logoColor=white" />
+        <br />
+        <!-- Big Data & Compute -->
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white" />
+        <br />
+        <!-- Languages -->
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+        <br />
+        <!-- Tools -->
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-### Languages & Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Analytics & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logoColor=white)
-
-### Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=amansarohadev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" alt="Aman's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansarohadev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Aman's Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amansarohadev&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -109,64 +140,27 @@ Production-ready HR analytics with advanced SQL - window functions, CTEs, and da
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 🎯 [SQL Mastery Portfolio](https://github.com/amaninsights/sql-mastery-portfolio)
-50+ production SQL queries solving real business problems - from basic JOINs to complex window functions and optimization.
-
-`PostgreSQL` `MySQL` `CTEs` `Analytics`
-
-</td>
-<td width="50%">
-
-### 🏠 [Airbnb Seattle Insights](https://github.com/amaninsights/airbnb-market-insights-seattle)
-Interactive Tableau dashboard analyzing Seattle Airbnb market - pricing trends, seasonality, and neighborhood performance.
-
-`Tableau` `Data Visualization` `Market Analysis`
-
-</td>
-</tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amaninsights&theme=dark" alt="GitHub Streak" /></a>
+### 🎯 Goals
 
-</div>
-
+| Focus Area | Objective |
+| :--- | :--- |
+| **Certification** | DP-203 (Data Engineering on Azure) |
+| **Architecture** | Master Lakehouse patterns with Databricks |
+| **Orchestration** | Advanced Airflow & ADF pipelines |
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Land a remote Data Analyst role
-- [ ] Complete 100+ SQL LeetCode problems  
-- [ ] Build 8+ production-quality portfolio projects
-- [ ] Contribute to open-source analytics tools
-- [ ] Master dbt for analytics engineering
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
+### 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman2805)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amaninsights.vercel.app/)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansarohadev@gmail.com)
 
----
-
-### 💬 *"Data tells a story. I help businesses hear it."*
-
 </div>
-
-
-
