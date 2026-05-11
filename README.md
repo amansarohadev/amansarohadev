@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="assets/profile_pic.png" width="110" height="110" style="border-radius: 50%; border: 3px solid #00d4ff;" alt="Aman" />
-
-<h1 style="margin: 12px 0 4px;">
-  <a href="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Aman+Saroha">
-    <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=38&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Aman+Saroha" alt="Aman Saroha" />
-  </a>
-</h1>
-
 <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Azure+SQL+Database+Engineer;Competitive+Programmer;AZ-104+%7C+AZ-900+Certified;Sonipat+%E2%86%92+Big+Tech">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=F59E0B&center=true&vCenter=true&width=700&lines=Azure+SQL+Database+Engineer;Competitive+Programmer;AZ-104+%7C+AZ-900+Certified;Sonipat+%E2%86%92+Big+Tech" alt="Subtitle" />
 </a>
