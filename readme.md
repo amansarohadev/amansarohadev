@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/aman2805" target="_blank">
+  <a href="https://linkedin.com/in/amansarohadev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://amaninsights.vercel.app/" target="_blank">
+  <a href="https://amansarohadev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/amansarohadev" target="_blank">
@@ -116,4 +116,4 @@ Actively completing a comprehensive **Full-Stack & AI Engineering** mastery curr
 
 **Open for Full-Stack Software Engineer roles, web app development, and REST API / Database architecture collaborations! 💬**
 
-[LinkedIn](https://linkedin.com/in/aman2805) • [Portfolio](https://amaninsights.vercel.app/) • [GitHub](https://github.com/amansarohadev) • [Instagram](https://instagram.com/amansaroha98)
+[LinkedIn](https://linkedin.com/in/amansarohadev) • [Portfolio](https://amansarohadev.vercel.app/) • [GitHub](https://github.com/amansarohadev) • [Instagram](https://instagram.com/amansaroha98)
